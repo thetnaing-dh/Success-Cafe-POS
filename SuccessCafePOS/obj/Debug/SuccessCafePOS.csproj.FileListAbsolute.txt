@@ -1,0 +1,676 @@
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+C:\Users\Asus\source\repos\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\EnvDTE.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\stdole.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\EnvDTE.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\stdole.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAddPrinter.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancel.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancelQty.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormChangeTable.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustGroup.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustomer.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormDashboard.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormEditInvoice.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormExpenses.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormItemRemark.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormLogin.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMergeTable.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRegister.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRemarks.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReports.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSetting.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSplitBill.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrderList.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormPlaceOrder.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAdvance.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTransferItem.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSettingPassCheck.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormClearData.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.manifest
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.application
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\EnvDTE.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\stdole.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAddPrinter.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAdvance.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancel.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancelQty.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormChangeTable.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormClearData.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustGroup.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustomer.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormDashboard.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormEditInvoice.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormExpenses.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormItemRemark.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormLogin.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMergeTable.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrderList.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormPlaceOrder.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRegister.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRemarks.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReports.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSetting.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSettingPassCheck.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSplitBill.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTransferItem.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.TrustInfo.xml
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.manifest
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.application
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAddPrinter.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAdvance.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancel.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancelQty.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormChangeTable.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormClearData.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustGroup.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustomer.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormDashboard.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormEditInvoice.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormExpenses.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormItemRemark.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormLogin.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1280.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1536.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMergeTable.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrderList.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormPlaceOrder.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRegister.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRemarks.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReports.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSetting.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSettingPassCheck.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSplitBill.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTransferItem.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.manifest
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.application
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\EnvDTE.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\stdole.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.TrustInfo.xml
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.manifest
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.application
+C:\SuccessCafePOS Complete Don't Touch\SuccessCafePOS Backup with sqlite\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.manifest
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.application
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\EnvDTE.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\stdole.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAddPrinter.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAdvance.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancelQty.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormChangeTable.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormClearData.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustGroup.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustomer.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormDashboard.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormEditInvoice.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormExpenses.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormItemRemark.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormLogin.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1280.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1536.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMergeTable.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrderList.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormPlaceOrder.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRegister.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRemarks.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReports.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSetting.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSettingPassCheck.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSplitBill.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTransferItem.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.TrustInfo.xml
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.manifest
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.application
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.manifest
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.application
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1280.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1536.resources
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.TrustInfo.xml
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.manifest
+F:\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.application
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.manifest
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.application
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\EnvDTE.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\stdole.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAddPrinter.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAdvance.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancel.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancelQty.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormChangeTable.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormClearData.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustGroup.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustomer.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormDashboard.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormEditInvoice.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormExpenses.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormItemRemark.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormLogin.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1280.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1536.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMergeTable.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrderList.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormPlaceOrder.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRegister.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRemarks.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReports.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSetting.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSettingPassCheck.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSplitBill.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTransferItem.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.TrustInfo.xml
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.manifest
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.application
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+F:\SuccessCafePOS Complete\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.config
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe.manifest
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.application
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.exe
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\SuccessCafePOS.pdb
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\EnvDTE.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.AssemblyReference.cache
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAddPrinter.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormAdvance.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCancelQty.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormChangeTable.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormClearData.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustGroup.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCustomer.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormDashboard.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormEditInvoice.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormExpenses.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormItemRemark.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormLogin.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1280.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMain1536.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMenu.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormMergeTable.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrder.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormOrderList.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormPlaceOrder.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRegister.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormRemarks.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReports.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormReportViewer.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSetting.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSettingPassCheck.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormSplitBill.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTable.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTransferItem.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.Properties.Resources.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.GenerateResource.cache
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.csproj.CoreCompileInputs.cache
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.TrustInfo.xml
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.manifest
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.application
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessC.E1DE0A22.Up2Date
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.pdb
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTableGroup.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCategory.resources
+C:\Users\Thet Naing Oo\Documents\SuccessCafePOS Version 2\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.config
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.exe.config
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormCategory.resources
+C:\Users\Asus\Desktop\SuccessCafePOS Backup with sqlite\SuccessCafePOS\obj\Debug\SuccessCafePOS.FormTableGroup.resources

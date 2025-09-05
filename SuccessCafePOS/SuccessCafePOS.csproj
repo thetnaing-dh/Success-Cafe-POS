@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09384896-DC32-4003-AF9C-D138E0600A76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SuccessCafePOS</RootNamespace>
+    <AssemblyName>SuccessCafePOS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/SuccessCafePOS/</UpdateUrl>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SuccessCafePOS.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>226D1EC1A5290D08AB6D7DB97F7E93692CE789AD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SuccessCafePOS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.119.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Backup.cs" />
+    <Compile Include="Base32Converter.cs" />
+    <Compile Include="ComputerInfo.cs" />
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="DirectPrint.cs" />
+    <Compile Include="Edition.cs" />
+    <Compile Include="FormAddPrinter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPrinter.Designer.cs">
+      <DependentUpon>FormAddPrinter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdvance.Designer.cs">
+      <DependentUpon>FormAdvance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCancelQty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCancelQty.Designer.cs">
+      <DependentUpon>FormCancelQty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCategory.Designer.cs">
+      <DependentUpon>FormCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChangeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangeTable.Designer.cs">
+      <DependentUpon>FormChangeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClearData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClearData.Designer.cs">
+      <DependentUpon>FormClearData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustGroup.Designer.cs">
+      <DependentUpon>FormCustGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomer.Designer.cs">
+      <DependentUpon>FormCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDashboard.Designer.cs">
+      <DependentUpon>FormDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditInvoice.Designer.cs">
+      <DependentUpon>FormEditInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExpenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExpenses.Designer.cs">
+      <DependentUpon>FormExpenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormItemRemark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormItemRemark.Designer.cs">
+      <DependentUpon>FormItemRemark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain1280.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain1280.Designer.cs">
+      <DependentUpon>FormMain1280.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain1536.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain1536.Designer.cs">
+      <DependentUpon>FormMain1536.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMergeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMergeTable.Designer.cs">
+      <DependentUpon>FormMergeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrder.Designer.cs">
+      <DependentUpon>FormOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrderList.Designer.cs">
+      <DependentUpon>FormOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPlaceOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlaceOrder.Designer.cs">
+      <DependentUpon>FormPlaceOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegister.Designer.cs">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRemarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRemarks.Designer.cs">
+      <DependentUpon>FormRemarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReports.Designer.cs">
+      <DependentUpon>FormReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportViewer.Designer.cs">
+      <DependentUpon>FormReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSetting.Designer.cs">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSettingPassCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettingPassCheck.Designer.cs">
+      <DependentUpon>FormSettingPassCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSplitBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSplitBill.Designer.cs">
+      <DependentUpon>FormSplitBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTable.Designer.cs">
+      <DependentUpon>FormTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTableGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTableGroup.Designer.cs">
+      <DependentUpon>FormTableGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransferItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransferItem.Designer.cs">
+      <DependentUpon>FormTransferItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyManager.cs" />
+    <Compile Include="KeyValuesClass.cs" />
+    <Compile Include="MyanmartoEnglish.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Status.cs" />
+    <EmbeddedResource Include="FormAddPrinter.resx">
+      <DependentUpon>FormAddPrinter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdvance.resx">
+      <DependentUpon>FormAdvance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCancelQty.resx">
+      <DependentUpon>FormCancelQty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCategory.resx">
+      <DependentUpon>FormCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangeTable.resx">
+      <DependentUpon>FormChangeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClearData.resx">
+      <DependentUpon>FormClearData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustGroup.resx">
+      <DependentUpon>FormCustGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomer.resx">
+      <DependentUpon>FormCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDashboard.resx">
+      <DependentUpon>FormDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditInvoice.resx">
+      <DependentUpon>FormEditInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExpenses.resx">
+      <DependentUpon>FormExpenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormItemRemark.resx">
+      <DependentUpon>FormItemRemark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain1280.resx">
+      <DependentUpon>FormMain1280.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain1536.resx">
+      <DependentUpon>FormMain1536.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMergeTable.resx">
+      <DependentUpon>FormMergeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrder.resx">
+      <DependentUpon>FormOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrderList.resx">
+      <DependentUpon>FormOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlaceOrder.resx">
+      <DependentUpon>FormPlaceOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegister.resx">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRemarks.resx">
+      <DependentUpon>FormRemarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReports.resx">
+      <DependentUpon>FormReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportViewer.resx">
+      <DependentUpon>FormReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSetting.resx">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettingPassCheck.resx">
+      <DependentUpon>FormSettingPassCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSplitBill.resx">
+      <DependentUpon>FormSplitBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTable.resx">
+      <DependentUpon>FormTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTableGroup.resx">
+      <DependentUpon>FormTableGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransferItem.resx">
+      <DependentUpon>FormTransferItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\rptBillSlip.rdlc" />
+    <EmbeddedResource Include="Reports\rptCancelSlip.rdlc" />
+    <EmbeddedResource Include="Reports\rptCustomerList.rdlc" />
+    <EmbeddedResource Include="Reports\rptDailySales.rdlc" />
+    <EmbeddedResource Include="Reports\rptExpenseList.rdlc" />
+    <EmbeddedResource Include="Reports\rptIncomeExpense.rdlc" />
+    <EmbeddedResource Include="Reports\rptIncomesList.rdlc" />
+    <EmbeddedResource Include="Reports\rptItemList.rdlc" />
+    <EmbeddedResource Include="Reports\rptKitchenSlip.rdlc" />
+    <EmbeddedResource Include="Reports\rptMonthlySales.rdlc" />
+    <EmbeddedResource Include="Reports\rptOrderTakeOutSlip.rdlc" />
+    <EmbeddedResource Include="Reports\rptSaleByCustomer.rdlc" />
+    <EmbeddedResource Include="Reports\rptSaleByInvoice.rdlc" />
+    <EmbeddedResource Include="Reports\rptSaleByMenu.rdlc" />
+    <EmbeddedResource Include="Reports\rptSaleByTable.rdlc" />
+    <EmbeddedResource Include="Reports\rptSaleOrderList.rdlc" />
+    <EmbeddedResource Include="Reports\rptTableChange.rdlc" />
+    <EmbeddedResource Include="Reports\rptTableList.rdlc" />
+    <EmbeddedResource Include="Reports\rptTopSaleMenu.rdlc" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\birthdaycake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuItems.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuTables.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\Brown and Beige Coffee Cafe Promotional Poster.png" />
+    <None Include="Resources\btnDashboard.png" />
+    <None Include="Resources\btnSettings.png" />
+    <None Include="Resources\btnExpenses.png" />
+    <None Include="Resources\btnReports.png" />
+    <None Include="Resources\btnSave.png" />
+    <None Include="Resources\btnPrint.png" />
+    <None Include="Resources\btnCancel.png" />
+    <None Include="Resources\btnCancelAll.png" />
+    <None Include="Resources\btnPrintKitchen.png" />
+    <None Include="Resources\btnRegister.png" />
+    <None Include="Resources\btnBackup.png" />
+    <None Include="Resources\btnRestore.png" />
+    <Content Include="ico.ico" />
+    <None Include="Resources\orderlists.png" />
+    <None Include="Resources\btnTakeout.png" />
+    <None Include="Resources\btnOrder.png" />
+    <None Include="Resources\btnAdvance.png" />
+    <None Include="Resources\btnChangeTable.png" />
+    <None Include="Resources\btnMerge.png" />
+    <None Include="Resources\btnTransferItem.png" />
+    <None Include="Resources\btnSplitBill.png" />
+    <None Include="Resources\takeout.png" />
+    <None Include="Resources\btnItemRemark.png" />
+    <None Include="Resources\btnOK.png" />
+    <None Include="Resources\btnAdd.png" />
+    <None Include="Resources\btnClear.png" />
+    <None Include="Resources\panel1.png" />
+    <None Include="Resources\panel2.png" />
+    <None Include="Resources\panel3.png" />
+    <None Include="Resources\panel4.png" />
+    <None Include="Resources\panel5.png" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\btnTrial.png" />
+    <None Include="Resources\btnManual.png" />
+    <None Include="Resources\btnInfo.png" />
+    <None Include="Resources\browse.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+</Project>
