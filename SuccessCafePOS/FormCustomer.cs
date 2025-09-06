@@ -383,8 +383,7 @@ namespace SuccessCafePOS
             if (colName == "colEdit")
             {
                 if(row != null) 
-                {
-                    load_group();
+                {               
                     cboGroup.SelectedItem = cboGroup.Text = row.Cells["colGroup"].Value.ToString();
                     id = row.Cells["colID"].Value.ToString();
                     txtID.Text = row.Cells["colCustID"].Value.ToString();
@@ -430,6 +429,7 @@ namespace SuccessCafePOS
             txtMemCard.Clear();
             txtDiscount.Clear();
             cbInActive.Checked = false;
+            txtID.Focus();
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
