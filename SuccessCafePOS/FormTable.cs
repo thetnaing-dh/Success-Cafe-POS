@@ -310,8 +310,7 @@ namespace SuccessCafePOS
             if (colName == "colEdit")
             {
                 if (row != null)
-                {
-                    load_group();
+                {                  
                     cboTableGroup.SelectedItem = cboTableGroup.Text = row.Cells["colGroup"].Value.ToString();
                     id = row.Cells["colID"].Value.ToString();
                     txtID.Text = row.Cells["colTableID"].Value.ToString();
@@ -342,7 +341,7 @@ namespace SuccessCafePOS
             txtName.Clear();
             cbTakeAway.Checked = false;
             cbInActive.Checked = false;
-            cboTableGroup.Focus();
+            txtID.Focus();
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
