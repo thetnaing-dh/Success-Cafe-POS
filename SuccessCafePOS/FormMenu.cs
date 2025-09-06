@@ -398,8 +398,7 @@ namespace SuccessCafePOS
             if (colName == "colEdit")
             {
                 if (row != null)
-                {
-                    load_group();
+                {                    
                     id = row.Cells["colID"].Value.ToString();
                     txtID.Text = row.Cells["colItemID"].Value.ToString();
                     txtName.Text = row.Cells["colName"].Value.ToString();
@@ -462,6 +461,7 @@ namespace SuccessCafePOS
             pbImage.Image = (Image)Properties.Resources.ResourceManager.GetObject("browse");
             pbDelete.Hide();
             img = null;
+            txtID.Focus();
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
